@@ -167,7 +167,6 @@ header h1 {
 
 .fleche-suiv {
 	top: -65%;
-	color: teal !important;
 }
 
 .carousel-control-next,
@@ -388,6 +387,20 @@ header h1 {
 			margin : 10px;
 		}
 
+		.fleche-prev {
+			top: -80%;
+		}
 		
+		.fleche-suiv {
+			top: -80%;
+		}
+
+		.saison {
+			background-size: auto;
+		}
+
+		.saison img {
+			padding-top: 25%;
+		}
   }
 
