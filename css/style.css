@@ -350,7 +350,7 @@ header h1 {
 		}
 
 		.text2 {
-			margin-bottom: 11rem;
+			margin-bottom: 12rem;
 		}
 		
 		.presentation h3 {
@@ -388,6 +388,7 @@ header h1 {
 		.section1 img {
 			width: 100vw;
 			height: 50vh;
+			padding: 0 1%;
 		}
 
 		.texte-informatif {
