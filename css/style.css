@@ -433,5 +433,9 @@ header h1 {
 		.saison img {
 			padding-top: 25%;
 		}
+
+		body {
+			overflow-x: hidden;
+		}
   }
 
